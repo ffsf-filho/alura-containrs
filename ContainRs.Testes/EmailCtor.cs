@@ -1,5 +1,4 @@
-using System.Reflection;
-using ContainRs.WebApp.Models;
+using ContainRs.Domain.Models;
 
 namespace ContainRs.Testes
 {
