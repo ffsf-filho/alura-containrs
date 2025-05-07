@@ -10,4 +10,8 @@
     <ProjectReference Include="..\ContainRs.Domain\ContainRs.Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Docs\" />
+  </ItemGroup>
+
 </Project>
